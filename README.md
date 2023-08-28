@@ -40,7 +40,7 @@
 
 <!-- Pulished project starts -->
 
-* [Paper 1: An Optically Aided Magnetic Tracking Approach for Magnetically Actuated Capsule Robot](https://drive.google.com/file/d/1IRlOzCUvTk8_aHZ4HJ_pdPxsXxqSbAAS/view?usp=sharing) - 2021
+* [[1] An Optically Aided Magnetic Tracking Approach for Magnetically Actuated Capsule Robot](https://drive.google.com/file/d/1IRlOzCUvTk8_aHZ4HJ_pdPxsXxqSbAAS/view?usp=sharing) - 2021
 
 <!-- Pulished project ends -->
 
