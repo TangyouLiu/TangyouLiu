@@ -8,7 +8,8 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://github.com/TangyouLiu/HAMIS-Autonmous-Grasping)
+![daftpunktocat-guy](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/dd3a8743-070c-4bf8-b42f-8fef89c0eb1e)
+
 
 ![dark](https://raw.githubusercontent.com/TangyouLiu/TangyouLiu/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
@@ -20,6 +21,7 @@
 </tr>
 <tr>
 <td valign="top" width="50%">
+  
 #### 🪂 <a href='' target="_blank">Current Project</a>
 
 <!-- Current project starts -->
