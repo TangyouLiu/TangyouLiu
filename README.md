@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### ![google-scholar-icon-19](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/b5bf3b48-1b2d-434b-8888-cac1dffa98c0)
+#### ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/54e20cbb-6647-48b6-b066-5ecfa6d20b9f)
  <a href='' target="_blank">Published Paper</a>
 
 <!-- Pulished project starts -->
