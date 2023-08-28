@@ -23,7 +23,7 @@
 #### 🪂 <a href='' target="_blank">Current Project</a>
 
 <!-- Current project starts -->
-* <a href='' target='_blank'>2023 My Dual-arm Surgical Robot</a> - 2023-08-20
+* <a href='https://github.com/TangyouLiu/HAMIS-Autonomous-Resection-Init' target='_blank'>2023 My Dual-arm Surgical Robot</a> - 2023-08-20
 <!-- Current project  ends -->
 
 
