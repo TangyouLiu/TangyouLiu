@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 	<a href="https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en&oi=ao"><img src="imgs/citations.svg" alt="Citations"></a>
+#### 	<a href="https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
 
 <!-- Pulished project starts -->
 
