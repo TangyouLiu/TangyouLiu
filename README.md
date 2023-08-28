@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/efec42ac-0f26-443a-a0cf-b4d27ef1ed72) [Google Scholar](https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en&oi=ao)
+#### 	<a href="https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en&oi=ao"><img src="imgs/citations.svg" alt="Citations"></a>
 
 <!-- Pulished project starts -->
 
