@@ -8,7 +8,7 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/TangyouLiu/TangyouLiu/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+![light](https://github.com/TangyouLiu/HAMIS-Autonmous-Grasping)
 
 ![dark](https://raw.githubusercontent.com/TangyouLiu/TangyouLiu/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
