@@ -11,8 +11,6 @@
 ![daftpunktocat-guy](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/dd3a8743-070c-4bf8-b42f-8fef89c0eb1e)
 
 
-![dark](https://raw.githubusercontent.com/TangyouLiu/TangyouLiu/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
 </td>
 <td valign="top" width="50%">
 
@@ -38,7 +36,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 	<a href="https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
+####  <a href='https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en'><img src="imgs/citations.svg" alt="Citations"></a>
 
 <!-- Pulished project starts -->
 
