@@ -1,8 +1,8 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi， I'm Tangyou from China ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/99eaff17-0e57-427c-afcb-60e592d12ef5)
-, a PhD student 👨‍🎓 at UNSW 🐨. I'm researching surgical robots ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/1413a8d1-dc49-481b-bf40-a0cae481b644)
- and am familiar with robotic design and modeling. I program with Python/ C/ C++/. Below information is updated via <a href="https://github.com/TangyouLiu/TangyouLiu/actions" target="_blank">Actions</a> automatically：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi， I'm Tangyou from China ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/b9199932-d363-40d0-8bbe-91276669232b)
+
+, a PhD student 👨‍🎓 at UNSW 🐨. I'm researching surgical robots 🦾 and am familiar with robotic design and modeling. I program with Python/ C/ C++/. Below information is updated via <a href="https://github.com/TangyouLiu/TangyouLiu/actions" target="_blank">Actions</a> automatically：
 
 <table width="960px">
 <tr>
