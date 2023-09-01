@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi， I'm Tangyou from China ![image](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/b9199932-d363-40d0-8bbe-91276669232b)
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi， I'm Tangyou from China 🐉
 
 , a PhD student 👨‍🎓 at UNSW 🐨. I'm researching surgical robots 🦾 and am familiar with robotic design and modeling. I program with Python/ C/ C++/. Below information is updated via <a href="https://github.com/TangyouLiu/TangyouLiu/actions" target="_blank">Actions</a> automatically：
 
