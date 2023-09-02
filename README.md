@@ -8,9 +8,6 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![daftpunktocat-guy](https://github.com/TangyouLiu/TangyouLiu/assets/143326134/dd3a8743-070c-4bf8-b42f-8fef89c0eb1e)
-
-
 </td>
 <td valign="top" width="50%">
 
