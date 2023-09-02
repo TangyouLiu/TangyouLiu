@@ -5,7 +5,6 @@
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
-
 #### 🏊‍♂️ Weekly Development Breakdown
 
 </td>
