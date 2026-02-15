@@ -27,7 +27,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 <table>
   <tr>
     <td width="30%">
-      <img src="images/paper_nature_2026.jpg" width="100%" alt="Artificial Kinaesthesia">
+      <img src="imgs/2026_NRB.png" width="100%" alt="Artificial Kinaesthesia">
     </td>
     <td width="70%">
       <h3>Artificial kinaesthesia in autonomous robotic surgery</h3>
