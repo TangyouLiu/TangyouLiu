@@ -22,8 +22,6 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 ---
 
 ## 📝 Selected Publications
-## 📝 Selected Publications
-
 <table>
   <tr>
     <td width="30%">
@@ -73,9 +71,46 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
       <h3>Automatic Tissue Traction Using Miniature Force-Sensing Forceps for Minimally Invasive Surgery</h3>
       <p>
         <strong>T. Liu</strong>, X. Wang, J. Katupitiya, J. Wang, L. Wu.<br>
-        [cite_start]<em>IEEE Transactions on Robotics (T-RO)</em>, 2024. (Q1, IF: 10.5) [cite: 9]<br>
+        <em>IEEE Transactions on Robotics (T-RO)</em>, 2024. (Q1, IF: 10.5)<br>
         <a href="https://doi.org/10.1109/TRO.2024.3486177">[DOI]</a> 
         <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">[🎥 Video]</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="imgs/2024_AIS.jpg" width="100%" alt="Autonmous Robotic Surgery">
+    </td>
+    <td width="70%">
+      <h3>A review on the Form and Complexity of Human-Robot Interaction in the Evolution of Autonomous Surgery</h3>
+      <p>
+        <strong>T. Liu</strong>, Wang, J., Wong, S., Razjigaev, A., Beier, S., Peng, S., Do, T.N., Song, S., Chu, D., Wang, C.H., Lovell, N.H., and L. Wu.<br>
+        <em>Advanced Intelligent Systems (AIS), 2024. (Q1, IF: 6.8)<br>
+        <a href="https://doi.org/10.1002/aisy.202400197">[DOI]</a>
+      </p>
+      <p>
+        <em>(Description:...)</em>
+      </p>
+    </td>
+  </tr>
+<table>
+
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">
+        <img src="https://img.youtube.com/vi/f5gXuXe67Ak/maxresdefault.jpg" width="100%" alt="Watch Video">
+      </a>
+    </td>
+    <td width="70%">
+      <h3>A review on the Form and Complexity of Human-Robot Interaction in the Evolution of Autonomous Surgery</h3>
+      <p>
+        <strong>T. Liu</strong>, Wang, J., Wong, S., Razjigaev, A., Beier, S., Peng, S., Do, T.N., Song, S., Chu, D., Wang, C.H., Lovell, N.H., and L. Wu.<br>
+        <em>Advanced Intelligent Systems (AIS)</em>, 2024. (Q1, IF: 10.5)<br>
+        <a href="https://doi.org/10.1002/aisy.202400197">[DOI]</a>
       </p>
     </td>
   </tr>
