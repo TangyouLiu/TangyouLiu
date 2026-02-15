@@ -34,7 +34,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
       <p>
         <strong>T. Liu</strong>, S. Yuan, H. Ren.<br>
         <em>Nature Reviews Bioengineering</em>, 2026. (Q1, IF: 37.5)<br>
-        <a href="#">[Paper]</a> <a href="#">[Project Page]</a>
+        <a href="https://doi.org/10.1038/s44222-026-00403-z">[DOI]</a>
       </p>
       <p>
         <em>(Description: Proposed the concept of artificial kinaesthesia to enhance safety in autonomous robotic surgery...)</em>
