@@ -1,4 +1,6 @@
-# Tangyou Liu (刘唐有)
+<div align="center">
+  <img src="images/avatar.jpg" width="100px"> <h1>Hi, I'm Tangyou Liu 👋</h1>
+</div>
 
 **Postdoctoral Fellow**, Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK)  
 📍 Room 431, SHB, CUHK, Shatin, HKSAR  
