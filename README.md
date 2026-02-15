@@ -8,11 +8,9 @@
 
 ## 👨‍🎓 About Me
 
-[cite_start]I am currently a Postdoctoral Fellow at the **The Chinese University of Hong Kong (CUHK)**[cite: 2, 4]. [cite_start]My research focuses on **Medical/Surgical Robotics**, **Surgical Navigation**, and **Human-Robot Interaction**, with a particular interest in autonomous surgical systems and force sensing technologies[cite: 9, 14].
-
-[cite_start]I received my Ph.D. degree from the **University of New South Wales (UNSW)** in 2025, supervised by Prof. Liao Wu and Prof. Jay Katupitiya[cite: 7]. [cite_start]Prior to that, I obtained my M.E. degree from the **Harbin Institute of Technology (HIT)** in 2021[cite: 7].
-
-[cite_start]My current work aims to enhance the safety and autonomy of robotic surgery through "Artificial Kinaesthesia" and multimodal perception[cite: 9].
+I am currently a Postdoctoral Fellow at the **The Chinese University of Hong Kong (CUHK)**[cite: 2, 4]. [cite_start]My research focuses on **Medical/Surgical Robotics**, **Surgical Navigation**, and **Human-Robot Interaction**, with a particular interest in autonomous surgical systems and force sensing technologies[cite: 9, 14].
+I received my Ph.D. degree from the **University of New South Wales (UNSW)** in 2025, supervised by Prof. Liao Wu and Prof. Jay Katupitiya[cite: 7]. [cite_start]Prior to that, I obtained my M.E. degree from the **Harbin Institute of Technology (HIT)** in 2021[cite: 7].
+My current work aims to enhance the safety and autonomy of robotic surgery through multimodal perception and artificial intelligence[cite: 9].
 
 ---
 
