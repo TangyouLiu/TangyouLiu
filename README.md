@@ -41,19 +41,20 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
       </p>
     </td>
   </tr>
+<table>
 
 <table>
   <tr>
     <td width="30%">
       <a href="https://www.youtube.com/watch?v=8zV_8tDZgZU" target="_blank">
-        <img src="https://img.youtube.com/vi/8zV_8tDZgZU/hqdefault.jpg" width="100%" alt="Watch Video">
+        <img src="https://img.youtube.com/vi/8zV_8tDZgZU/maxresdefault.jpg" width="100%" alt="Watch Video">
       </a>
     </td>
     <td width="70%">
       <h3>Robotic intracorporeal palpation with a miniature force-sensing probe for minimally invasive surgery.</h3>
       <p>
         <strong>T. Liu</strong>,Zhang, X., Zhang, C., Wang, T., Song, S., Wang, J. and Wu, L.<br>
-        [cite_start]<em> IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. (Q1, IF: 6.1) [cite: 9]<br>
+      <em> IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. (Q1, IF: 6.1)<br>
         <a href="https://doi.org/10.1109/TIM.2025.3580873">[DOI]</a> 
         <a href="https://www.youtube.com/watch?v=8zV_8tDZgZU" target="_blank">[🎥 Video]</a>
       </p>
@@ -65,7 +66,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
   <tr>
     <td width="30%">
       <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">
-        <img src="https://img.youtube.com/vi/f5gXuXe67Ak/hqdefault.jpg" width="100%" alt="Watch Video">
+        <img src="https://img.youtube.com/vi/f5gXuXe67Ak/maxresdefault.jpg" width="100%" alt="Watch Video">
       </a>
     </td>
     <td width="70%">
@@ -75,21 +76,6 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
         [cite_start]<em>IEEE Transactions on Robotics (T-RO)</em>, 2024. (Q1, IF: 10.5) [cite: 9]<br>
         <a href="https://doi.org/10.1109/TRO.2024.3486177">[DOI]</a> 
         <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">[🎥 Video]</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-  <tr>
-    <td width="30%">
-      <img src="images/paper_tmech_2024.jpg" width="100%" alt="Haptics-Enabled Forceps">
-    </td>
-    <td width="70%">
-      <h3>Haptics-Enabled Forceps with Multimodal Force Sensing</h3>
-      <p>
-        <strong>T. Liu</strong>, T. Zhang, J. Katupitiya, J. Wang, L. Wu.<br>
-        <em>IEEE/ASME Transactions on Mechatronics</em>, 2024. (Q1, IF: 7.3)<br>
-        <a href="#">[Paper]</a>
       </p>
     </td>
   </tr>
