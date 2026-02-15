@@ -22,26 +22,76 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 ---
 
 ## 📝 Selected Publications
+## 📝 Selected Publications
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="images/paper_nature_2026.jpg" width="100%" alt="Artificial Kinaesthesia">
+    </td>
+    <td width="70%">
+      <h3>Artificial kinaesthesia in autonomous robotic surgery</h3>
+      <p>
+        <strong>T. Liu</strong>, S. Yuan, H. Ren.<br>
+        <em>Nature Reviews Bioengineering</em>, 2026. (Q1, IF: 37.5)<br>
+        <a href="#">[Paper]</a> <a href="#">[Project Page]</a>
+      </p>
+      <p>
+        <em>(Description: Proposed the concept of artificial kinaesthesia to enhance safety in autonomous robotic surgery...)</em>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%">
+      <img src="images/paper_tro_2024.jpg" width="100%" alt="Automatic Tissue Traction">
+    </td>
+    <td width="70%">
+      <h3>Automatic Tissue Traction Using Miniature Force-Sensing Forceps</h3>
+      <p>
+        <strong>T. Liu</strong>, X. Wang, J. Katupitiya, J. Wang, L. Wu.<br>
+        <em>IEEE Transactions on Robotics (T-RO)</em>, 2024. (Q1, IF: 10.5)<br>
+        <a href="#">[Paper]</a> <a href="#">[Video]</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%">
+      <img src="images/paper_tmech_2024.jpg" width="100%" alt="Haptics-Enabled Forceps">
+    </td>
+    <td width="70%">
+      <h3>Haptics-Enabled Forceps with Multimodal Force Sensing</h3>
+      <p>
+        <strong>T. Liu</strong>, T. Zhang, J. Katupitiya, J. Wang, L. Wu.<br>
+        <em>IEEE/ASME Transactions on Mechatronics</em>, 2024. (Q1, IF: 7.3)<br>
+        <a href="#">[Paper]</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 2026
-* **Artificial kinaesthesia in autonomous robotic surgery** **T. Liu**, S. Yuan, H. Ren.  
-    *Nature Reviews Bioengineering* (Q1, IF: 37.5)  
+* **Artificial kinaesthesia in autonomous robotic surgery**
+* **T. Liu**, S. Yuan, H. Ren. **Nature Reviews Bioengineering** (Q1, IF: 37.5)  
     ![Research Highlight 1](2026_NRB.png) 
     *(Caption: Conceptual illustration of artificial kinaesthesia in robotic surgery)*
 
 ### 2025
-* **Robotic Intracorporeal Palpation with a Miniature Force-Sensing Probe for Minimally Invasive Surgery** **T. Liu**, X. Zhang, C. Zhang, T. Wang, S. Song, J. Wang, L. Wu.  
-    *IEEE Transactions on Instrumentation and Measurement* (Q1, IF: 5.9)
+* **Robotic Intracorporeal Palpation with a Miniature Force-Sensing Probe for Minimally Invasive Surgery**
+* **T. Liu**, X. Zhang, C. Zhang, T. Wang, S. Song, J. Wang, L. Wu. **IEEE Transactions on Instrumentation and Measurement** (Q1, IF: 5.9)
 
-* **A miniature transformable multi-modal stereo endoscope for minimally invasive surgery** **T. Liu**, L. Wu.  
-    *Australian Provisional Patent* (2025901461)
+* **A miniature transformable multi-modal stereo endoscope for minimally invasive surgery**
+* **T. Liu**, L. Wu. Australian Provisional Patent (2025901461)
 
 ### 2024
-* **Automatic Tissue Traction Using Miniature Force-Sensing Forceps for Minimally Invasive Surgery** **T. Liu**, X. Wang, J. Katupitiya, J. Wang, L. Wu.  
-    *IEEE Transactions on Robotics (T-RO)* (Q1, IF: 10.5)
+* **Automatic Tissue Traction Using Miniature Force-Sensing Forceps for Minimally Invasive Surgery**
+* **T. Liu**, X. Wang, J. Katupitiya, J. Wang, L. Wu. **IEEE Transactions on Robotics (T-RO)** (Q1, IF: 10.5)
 
-* **Haptics-Enabled Forceps with Multimodal Force Sensing: Toward Task-Autonomous Surgery** **T. Liu**, T. Zhang, J. Katupitiya, J. Wang, L. Wu.  
-    *IEEE/ASME Transactions on Mechatronics* (Q1, IF: 7.3)
+* **Haptics-Enabled Forceps with Multimodal Force Sensing: Toward Task-Autonomous Surgery**
+* **T. Liu**, T. Zhang, J. Katupitiya, J. Wang, L. Wu. **IEEE/ASME Transactions on Mechatronics** (Q1, IF: 7.3)
+* **A review on the form and complexity of human–robot interaction in the evolution of autonomous surgery**
+* **T. Liu**, J. Wang, ...  N.H. Lovell,&  L. Wu. **Advanced Intelligent Systems**(Q1, IF: 6.1)
 
 ---
 
