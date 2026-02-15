@@ -10,7 +10,7 @@
 
 ## 👨‍🎓 About Me
 
-I am currently a Postdoctoral Fellow at the **The Chinese University of Hong Kong (CUHK)**. My research focuses on **Medical/Surgical Robotics**, **Surgical Navigation**, and **Human-Robot Interaction**, with a particular interest in force sensing technologies for precise and autonomous surgical systems.
+Hi, I'm Tangyou Liu 👋, currently a Postdoctoral Fellow at the **The Chinese University of Hong Kong (CUHK)**. My research focuses on **Medical/Surgical Robotics**, **Surgical Navigation**, and **Human-Robot Interaction**, with a particular interest in force sensing technologies for precise and autonomous surgical systems.
 I received my Ph.D. from the **University of New South Wales (UNSW)** in 2025, under the supervision of Prof. Liao Wu. Before that, I obtained my M.E. degree from the **Harbin Institute of Technology, Shenzhen (HITsz)** in 2021, under the supervision of Prof. Max Q.-H. Meng.
 My current work aims to enhance the safety and autonomy of robotic surgery through multimodal perception and artificial intelligence.
 
@@ -21,8 +21,6 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 * **[2026.01]** Our paper on *"Artificial kinaesthesia in autonomous robotic surgery"* was published in **Nature Reviews Bioengineering** (IF: 37.6)!
 * **[2025.08]** Joined CUHK as a Postdoctoral Fellow.
 * **[2025.07]** Received the **Best Student Paper Award** at IEEE AIM Conference.
-
----
 
 ## 📝 Selected Publications
 <table>
