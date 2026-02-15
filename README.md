@@ -1,4 +1,4 @@
-# Tangyou Liu (刘堂友)
+# Tangyou Liu (刘唐有)
 
 **Postdoctoral Fellow** Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK)  
 📍 Room 431, SHB, CUHK, Shatin, HKSAR  
