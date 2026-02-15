@@ -82,6 +82,25 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 <table>
   <tr>
     <td width="30%">
+      <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">
+        <img src="https://img.youtube.com/vi/pi9bqSkwCFQ/maxresdefault.jpg" width="100%" alt="Watch Video">
+      </a>
+    </td>
+    <td width="70%">
+      <h3>Haptics-Enabled Forceps With Multi-Modal Force Sensing: Towards Task-Autonomous Surgery.</h3>
+      <p>
+        <strong>T. Liu</strong>, Zhang, T., Katupitiya, J., Wang, J., and Wu, L.<br>
+        <em>IEEE/ASME Transactions on Mechatronics (T-MECH)</em>, 2023. (Q1, IF: 6.5)<br>
+        <a href="https://doi.org/10.1109/TMECH.2023.3329564">[DOI]</a>
+        <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">[🎥 Video]</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
       <img src="imgs/2024_AIS.jpg" width="100%" alt="Autonmous Robotic Surgery">
     </td>
     <td width="70%">
@@ -101,17 +120,17 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 <table>
   <tr>
     <td width="30%">
-      <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">
-        <img src="https://img.youtube.com/vi/pi9bqSkwCFQ/maxresdefault.jpg" width="100%" alt="Watch Video">
+      <a href="https://www.youtube.com/watch?v=vTMGKF0DG6k" target="_blank">
+        <img src="https://img.youtube.com/vi/vTMGKF0DG6k/maxresdefault.jpg" width="100%" alt="Watch Video">
       </a>
     </td>
     <td width="70%">
-      <h3>Haptics-Enabled Forceps With Multi-Modal Force Sensing: Towards Task-Autonomous Surgery.</h3>
+      <h3>Towards Terrain Adaptability: In Situ Transformation of Wheel-Biped Robots.</h3>
       <p>
-        <strong>T. Liu</strong>, Zhang, T., Katupitiya, J., Wang, J., and Wu, L.<br>
-        <em>IEEE/ASME Transactions on Mechatronics (T-MECH)</em>, 2023. (Q1, IF: 6.5)<br>
-        <a href="https://doi.org/10.1109/TMECH.2023.3329564">[DOI]</a>
-        <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">[🎥 Video]</a>
+        <strong>T. Liu</strong>, Zhang, C., Wang, J., Song, S., and Meng, M.Q.H.<br>
+        <em> IEEE Robotics and Automation Letters (RA-L)</em>, 2022. (Q1, IF: 6.0)<br>
+        <a href="https://doi.org/10.1109/LRA.2022.3148486">[DOI]</a>
+        <a href="https://www.youtube.com/watch?v=vTMGKF0DG6k" target="_blank">[🎥 Video]</a>
       </p>
     </td>
   </tr>
