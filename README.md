@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="imgs/Avatar-modified.png" width="100px"> <h1>Hi, I'm Tangyou Liu 👋</h1>
-</div>
+<h1>Hi, I'm Tangyou Liu 👋</h1>
 
 **Postdoctoral Fellow**, Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK)  
 📍 Room 431, SHB, CUHK, Shatin, HKSAR  
