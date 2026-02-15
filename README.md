@@ -45,6 +45,25 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 <table>
   <tr>
     <td width="30%">
+      <a href="https://www.youtube.com/watch?v=8zV_8tDZgZU" target="_blank">
+        <img src="https://img.youtube.com/vi/8zV_8tDZgZU/hqdefault.jpg" width="100%" alt="Watch Video">
+      </a>
+    </td>
+    <td width="70%">
+      <h3>Robotic intracorporeal palpation with a miniature force-sensing probe for minimally invasive surgery.</h3>
+      <p>
+        <strong>T. Liu</strong>,Zhang, X., Zhang, C., Wang, T., Song, S., Wang, J. and Wu, L.<br>
+        [cite_start]<em> IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. (Q1, IF: 6.1) [cite: 9]<br>
+        <a href="https://doi.org/10.1109/TIM.2025.3580873">[DOI]</a> 
+        <a href="https://www.youtube.com/watch?v=8zV_8tDZgZU" target="_blank">[🎥 Video]</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
       <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">
         <img src="https://img.youtube.com/vi/f5gXuXe67Ak/hqdefault.jpg" width="100%" alt="Watch Video">
       </a>
@@ -54,7 +73,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
       <p>
         <strong>T. Liu</strong>, X. Wang, J. Katupitiya, J. Wang, L. Wu.<br>
         [cite_start]<em>IEEE Transactions on Robotics (T-RO)</em>, 2024. (Q1, IF: 10.5) [cite: 9]<br>
-        <a href="#">[Paper]</a> 
+        <a href="https://doi.org/10.1109/TRO.2024.3486177">[DOI]</a> 
         <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">[🎥 Video]</a>
       </p>
     </td>
