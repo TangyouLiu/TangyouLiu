@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Avatar.jpg" width="100px"> <h1>Hi, I'm Tangyou Liu 👋</h1>
+  <img src="imgs/Avatar.jpg" width="100px"> <h1>Hi, I'm Tangyou Liu 👋</h1>
 </div>
 
 **Postdoctoral Fellow**, Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK)  
