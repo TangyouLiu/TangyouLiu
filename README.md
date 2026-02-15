@@ -26,7 +26,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 ### 2026
 * **Artificial kinaesthesia in autonomous robotic surgery** **T. Liu**, S. Yuan, H. Ren.  
     *Nature Reviews Bioengineering* (Q1, IF: 37.5)  
-    ![Research Highlight 1](images/paper_nature_2026.jpg) 
+    ![Research Highlight 1](2026_NRB.png) 
     *(Caption: Conceptual illustration of artificial kinaesthesia in robotic surgery)*
 
 ### 2025
