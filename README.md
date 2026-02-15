@@ -101,16 +101,17 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 <table>
   <tr>
     <td width="30%">
-      <a href="https://www.youtube.com/watch?v=f5gXuXe67Ak" target="_blank">
-        <img src="https://img.youtube.com/vi/f5gXuXe67Ak/maxresdefault.jpg" width="100%" alt="Watch Video">
+      <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">
+        <img src="https://img.youtube.com/vi/pi9bqSkwCFQ/maxresdefault.jpg" width="100%" alt="Watch Video">
       </a>
     </td>
     <td width="70%">
-      <h3>A review on the Form and Complexity of Human-Robot Interaction in the Evolution of Autonomous Surgery</h3>
+      <h3>Haptics-Enabled Forceps With Multi-Modal Force Sensing: Towards Task-Autonomous Surgery.</h3>
       <p>
-        <strong>T. Liu</strong>, Wang, J., Wong, S., Razjigaev, A., Beier, S., Peng, S., Do, T.N., Song, S., Chu, D., Wang, C.H., Lovell, N.H., and L. Wu.<br>
-        <em>Advanced Intelligent Systems (AIS)</em>, 2024. (Q1, IF: 10.5)<br>
-        <a href="https://doi.org/10.1002/aisy.202400197">[DOI]</a>
+        <strong>T. Liu</strong>, Zhang, T., Katupitiya, J., Wang, J., and Wu, L.<br>
+        <em>IEEE/ASME Transactions on Mechatronics (T-MECH)</em>, 2023. (Q1, IF: 6.5)<br>
+        <a href="https://doi.org/10.1109/TMECH.2023.3329564">[DOI]</a>
+        <a href="https://www.youtube.com/watch?v=pi9bqSkwCFQ" target="_blank">[🎥 Video]</a>
       </p>
     </td>
   </tr>
