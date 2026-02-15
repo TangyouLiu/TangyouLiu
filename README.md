@@ -22,6 +22,8 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
 * **[2025.08]** Joined CUHK as a Postdoctoral Fellow.
 * **[2025.07]** Received the **Best Student Paper Award** at IEEE AIM Conference.
 
+---
+
 ## 📝 Selected Publications
 <table>
   <tr>
@@ -136,6 +138,7 @@ My current work aims to enhance the safety and autonomy of robotic surgery throu
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎖 Honors & Awards
