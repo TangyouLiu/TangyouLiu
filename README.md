@@ -3,7 +3,7 @@
 **Postdoctoral Fellow** Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK)  
 📍 Room 431, SHB, CUHK, Shatin, HKSAR  
 📧 Email: tangyouliu@cuhk.edu.hk
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=h27vluUAAAAJ&hl)
+* [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=h27vluUAAAAJ&hl)
 
 ---
 
